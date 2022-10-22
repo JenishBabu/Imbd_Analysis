@@ -1,4 +1,4 @@
-## IMBD ANALYSIS
+## IMDd ANALYSIS
 
 ### 1.Select the tables actors and directors:
 
