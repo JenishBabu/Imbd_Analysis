@@ -80,11 +80,3 @@ where department <> 'Directing';
 
 select * from movies m join directors d 
 on m.director_id=d.id;
-
-
-
-
-
-
-
-
