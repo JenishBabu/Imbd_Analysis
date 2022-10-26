@@ -109,3 +109,12 @@ on m.director_id=d.id;
 
 /*****************************************/
 
+/* Which year More movies has been released */
+
+select year(release_date) ,count(*)
+from movies group by year(release_date) 
+order by count(*) desc; 
+
+
+/*****************************************/
+
